@@ -1,0 +1,9 @@
+Wizard CS FAIR
+
+ casting spells 
+
+create system where when pointing creates a trail following the players finger 
+
+if that is a vaild drawing create a prefab from a spell list 
+
+they can then grab and through this prefab to deal damage or other effects to enemeies
